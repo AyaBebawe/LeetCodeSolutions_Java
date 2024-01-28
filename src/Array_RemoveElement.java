@@ -30,7 +30,7 @@ public class RemoveElementFromArray {
 }*/
 
 
-public class RemoveElementFromArray {
+public class Array_RemoveElement {
 	 public int removeElement(int[] nums, int val) {
 
 	     int n = nums.length; 
