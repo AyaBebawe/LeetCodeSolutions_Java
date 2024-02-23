@@ -17,13 +17,6 @@ public class String_isAnagram {
 	}
 	
 	
-	
-	
-	
-	
-	
-	
-	
 	public boolean isAnagram(String s, String t) {
 
 	    HashMap <Character, Integer > charmap = new HashMap<>();
