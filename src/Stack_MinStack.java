@@ -8,6 +8,7 @@ public class Stack_MinStack {
 	     newStack = new  Stack<Integer>();
 	    }
 	    
+	    
 	    public void push(int val) {
 	       if (val <= min)
 	       {

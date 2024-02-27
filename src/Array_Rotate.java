@@ -21,7 +21,7 @@ public class Array_Rotate {
 
 		  int n = nums.length;
 		        
-		        // If k is greater than the length of the array, take the    modulo to avoid unnecessary rotations.
+		        // If k is greater than the length of the array, take the modulo to avoid unnecessary rotations.
 		        k = k % n;
 
 		        // Reverse the entire array.
